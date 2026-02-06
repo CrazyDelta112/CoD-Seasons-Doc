@@ -16,7 +16,7 @@ Detailed documentation of the Modern Warfare, Cold War, Vanguard, Modern Warfare
 
 ---
 
-<h1 align="center"> Modern Warfare (2019) </h1>
+<h1 align="center"> Modern Warfare (IW8) </h1>
 
 <p align="center">
 <img src="https://cdn2.steamgriddb.com/logo_thumb/accd5a5480c79baadc2a8cdf8e253dd6.png" width="500">
@@ -24,7 +24,9 @@ Detailed documentation of the Modern Warfare, Cold War, Vanguard, Modern Warfare
 
 ---
 
-## Season 1
+<p align="center">
+<img src="Logos/Season_1.png" width="400">
+</p>
 
 <p align="center">
 <img src="https://codmwstore.com/wp-content/uploads/2019/12/Season1-scaled.jpg" width="2400">
@@ -64,7 +66,9 @@ The first patch at launch brought some maps across the Multiplayer and Spec Ops 
 
 ---
 
-## Season 2
+<p align="center">
+<img src="Logos/Season_2.png" width="400">
+</p>
 
 <p align="center">
 <img src="https://www.gamespot.com/a/uploads/original/1578/15787979/3635315-s2_roadmap.jpg" width="2400">
@@ -101,10 +105,31 @@ Season 2 was the most special season because it was when the Warzone mode was of
 </p>
 
 ---
+<p align="center">
+<img src="Logos/Season_3.png" width="400">
+</p>
+
+<p align="center">
+<img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Patch-notes/S3PC.png?raw=true" width="2400">
+</p>
+
+<p align="center">
+<img src="Logos/Reloaded.png" width="400">
+</p>
+
+<p align="center">
+<img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Patch-notes/S3PCR.jpg?raw=true" width="2400">
+</p>
 
 ---
 
-## Credits
+### Overview
+Season Three is the third batch of post-launch content for Call of Duty: Modern Warfare that released on April 8th, 2020 and ended on June 10th, 2020.
+
+It focuses on the aftermath related to the outcome of Operation: Rapid Sunder in Verdansk and the search for Khaled Al-Asad, as well as the return of Alex, who is revealed to be alive after destroying Barkov's Gas Factory.
+---
+
+<h1 align="center"> Credits </h1>
 
 <p align="center">
 This documentation was created to preserve and organize historical seasonal content from the Call of Duty franchise using multiple archival and community reference sources.
