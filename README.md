@@ -127,8 +127,32 @@ Season 2 was the most special season because it was when the Warzone mode was of
 Season Three is the third batch of post-launch content for Call of Duty: Modern Warfare that released on April 8th, 2020 and ended on June 10th, 2020.
 
 It focuses on the aftermath related to the outcome of Operation: Rapid Sunder in Verdansk and the search for Khaled Al-Asad, as well as the return of Alex, who is revealed to be alive after destroying Barkov's Gas Factory.
+
+### Release Information
+
+| Category | Information |
+|-----------|------------|
+| Start Date |   April 8th, 2020|
+| End Date |     June 10th, 2020. |
+
+
 ---
 
+<h1 align="center"> Promotional Material </h1>
+
+<p align="center">
+<img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Images/SeasonThree_Keyart_MW.webp?raw=true" width="90%">
+<img src="https://i.imgur.com/4IW79Ug.jpg" width="90%">
+</p>
+
+---
+<p align="center">
+<img src="Logos/Season_4.png" width="400">
+  <h1 align="center">Coming Soon</h1>
+</p>
+<br>
+
+---
 <h1 align="center"> Credits </h1>
 
 <p align="center">
@@ -141,8 +165,8 @@ This documentation was created to preserve and organize historical seasonal cont
 <img src="https://static.wikia.nocookie.net/callofduty/images/e/e6/Site-logo.png/revision/latest?cb=20231103090518" width="30%">
 <img src="https://www.nicepng.com/png/full/43-439805_activision-logo-white.png" width="30%">
 </p>
+---
 
-<br>
 
 
 
