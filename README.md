@@ -216,6 +216,68 @@ Season 5 is the biggest update of Warzone (MW Era),in this season the train,asce
 <br>
 
 ---
+
+---
+<p align="center">
+<img src="Logos/Season_6.png" width="400">
+</p>
+<p align="center">
+  <img src="https://support.activision.com/content/dam/atvi/support/article-assets/embedded-images/modern-warfare/MW-S6.jpg" width="2400">
+</p>
+
+---
+
+### Overview
+Season Six is the sixth batch of post-launch content for Call of Duty: Modern Warfare that was released on September 29th, 2020 and ended on December 8th, 2020.
+
+Season Six was the last season before Modern Warfare and Warzone's progression systems were merged with that of Call of Duty: Black Ops Cold War. 
+
+| Category | Information |
+|-----------|------------|
+| Start Date |   September 29th, 2020 |
+| End Date |    December 8th, 2020. |
+
+
+---
+
+
+
+<h1 align="center"> Promotional Material </h1>
+
+<p align="center">
+<img src="https://cdn.prod.website-files.com/606d2050699d4ff44a25da61/606d25215d8bee5d68c1aa9e_d20200818-003_S6_Operator_Keyart_1920x1080-p-1600.jpeg" width="90%">
+</p>
+
+---
+
+<p align="center">
+<img src="https://static.wikia.nocookie.net/callofduty/images/3/31/HauntingOfVerdansk_Logo_Warzone_MW.png/revision/latest?cb=20201022143758" width="400">
+</p>
+<p align="center">
+  <img src="https://codmwstore.com/wp-content/uploads/2020/10/MW-S6.5-ROADMAP.jpg" width="2400">
+</p>
+
+---
+
+### Overview
+The Haunting of Verdansk event occurred between October 20th and November 3rd, 2020 and brought upon new map changes, Operators and various cosmetics to be earned by completing various challenges across Multiplayer and Warzone. 
+
+| Category | Information |
+|-----------|------------|
+| Start Date |   October 20th, 2020 |
+| End Date |    November 3rd, 2020. |
+
+---
+
+<h1 align="center"> Promotional Material </h1>
+
+<p align="center">
+<img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Images/1.28.png?raw=true" width="90%">
+<img src="https://www.charlieintel.com/cdn-image/wp-content/uploads/2020/10/Screen-Shot-2020-10-19-at-1.40.31-PM.png" widht="90%">
+</p>
+
+---
+
 <h1 align="center"> Credits </h1>
 
 <p align="center">
