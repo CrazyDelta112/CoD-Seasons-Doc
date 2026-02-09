@@ -26,6 +26,7 @@ Detailed documentation of the Modern Warfare, Cold War, Vanguard, Modern Warfare
 
 <p align="center">
 <img src="Logos/Season_1.png" width="400">
+    <h1 align="center">Version: 1.10 - 1.13</h1>
 </p>
 
 <p align="center">
@@ -68,6 +69,7 @@ The first patch at launch brought some maps across the Multiplayer and Spec Ops 
 
 <p align="center">
 <img src="Logos/Season_2.png" width="400">
+      <h1 align="center">Version: 1.14 - 1.18</h1>
 </p>
 
 <p align="center">
@@ -107,6 +109,7 @@ Season 2 was the most special season because it was when the Warzone mode was of
 ---
 <p align="center">
 <img src="Logos/Season_3.png" width="400">
+    <h1 align="center">Version: 1.19 - 1.21</h1>
 </p>
 
 <p align="center">
@@ -149,6 +152,7 @@ It focuses on the aftermath related to the outcome of Operation: Rapid Sunder in
 
 <p align="center">
 <img src="Logos/Season_4.png" width="400">
+      <h1 align="center">Version: 1.22 - 1.23</h1>
 </p>
 <p align="center">
   <img src="https://bnetcmsus-a.akamaihd.net/cms/page_media/2KIUAFBO07KY1591829851846.jpg" width="2400">
@@ -184,6 +188,7 @@ Season 4 Was the Version Thart Added Chopper Gunner In Plunder,FireSale,Juggerna
 ---
 <p align="center">
 <img src="Logos/Season_5.png" width="400">
+    <h1 align="center">Version: 1.24 - 1.26</h1>
 </p>
 <p align="center">
   <img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Patch-notes/MW-Season-5.jpg?raw=true" width="2400">
@@ -220,6 +225,7 @@ Season 5 is the biggest update of Warzone (MW Era),in this season the train,asce
 ---
 <p align="center">
 <img src="Logos/Season_6.png" width="400">
+     <h1 align="center">Version: 1.27 - 1.29</h1>
 </p>
 <p align="center">
   <img src="https://support.activision.com/content/dam/atvi/support/article-assets/embedded-images/modern-warfare/MW-S6.jpg" width="2400">
@@ -252,6 +258,7 @@ Season Six was the last season before Modern Warfare and Warzone's progression s
 
 <p align="center">
 <img src="https://static.wikia.nocookie.net/callofduty/images/3/31/HauntingOfVerdansk_Logo_Warzone_MW.png/revision/latest?cb=20201022143758" width="400">
+    <h1 align="center">Version: 1.28</h1>
 </p>
 <p align="center">
   <img src="https://codmwstore.com/wp-content/uploads/2020/10/MW-S6.5-ROADMAP.jpg" width="2400">
