@@ -91,6 +91,15 @@ The second major batch of content focuses around Simon Riley and content themed 
 Season 2 was the most special season because it was when the Warzone mode was officially released to the public, launching with the famous **Verdansk** map.
 ---
 
+| Images  |
+|---------|
+|  <img src="https://www.vgr.com/wp-content/uploads/2020/03/Call-of-Duty-Warzone-Verdansk-Map-Five-Sectors.jpg" align="center" width="620"> |
+| <img src="https://trackercdn.com/ghost/images/2021/12/51649_MWS4.jpg" align="center" width="620"> |
+
+
+
+---
+
 ### Release Information
 
 | Category | Information |
@@ -281,6 +290,15 @@ The Haunting of Verdansk event occurred between October 20th and November 3rd, 2
 <p align="center">
 <img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Images/1.28.png?raw=true" width="90%">
 <img src="https://www.charlieintel.com/cdn-image/wp-content/uploads/2020/10/Screen-Shot-2020-10-19-at-1.40.31-PM.png" widht="90%">
+</p>
+
+---
+
+
+<h1 align="center"> Black Ops: Cold War (T9) </h1>
+
+<p align="center">
+<img src="https://cdn2.steamgriddb.com/logo_thumb/04f76dbd072826d04f79cc9d81df7434.png" width="500">
 </p>
 
 ---
