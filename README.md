@@ -278,6 +278,12 @@ Season Six was the last season before Modern Warfare and Warzone's progression s
 ### Overview
 The Haunting of Verdansk event occurred between October 20th and November 3rd, 2020 and brought upon new map changes, Operators and various cosmetics to be earned by completing various challenges across Multiplayer and Warzone. 
 
+
+| Images  |
+|---------|
+|  <img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Images/loading_mp_kstenod_bg.png?raw=true" align="center" width="620"> |
+| <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/sharedimages/maps/2025/11/COD-Warzone-Verdansk-Map-Nov-2025-4096.png" align="center" width="620"> |
+
 | Category | Information |
 |-----------|------------|
 | Start Date |   October 20th, 2020 |
@@ -301,6 +307,30 @@ The Haunting of Verdansk event occurred between October 20th and November 3rd, 2
 <img src="https://cdn2.steamgriddb.com/logo_thumb/04f76dbd072826d04f79cc9d81df7434.png" width="500">
 </p>
 
+---
+
+
+<p align="center">
+<img src="/Logos/Season_1.png" width="400">
+    <h1 align="center">IW8: 1.30 | T9: 1.10</h1>
+</p>
+<p align="center">
+  <img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Images/S1_Roadmap_1080.jpg?raw=true" width="2400">
+</p>
+
+---
+### Overview
+
+Season One is the first batch of post-launch content for Call of Duty: Black Ops Cold War that was released on December 16th, 2020 and ended on February 24th, 2021.[1] [2] [3] 
+
+### Extra
+
+In Black Ops Cold War Release We Got The Integration With Warzone, And We Recive a  News Mode (Resurgence) and Rebirth Island Map
+
+| Images  |
+|---------|
+|  <img src="https://github.com/CrazyDelta112/CoD-Seasons-Doc/blob/main/Images/loading_mp_escape2_bg.png?raw=true" align="center" width="620"> |
+| <img src="https://static.wikia.nocookie.net/callofduty/images/1/17/RebirthIsland_Map_Warzone_MW.jpg/revision/latest/scale-to-width-down/1200?cb=20201216101425" align="center" width="620"> |
 ---
 
 <h1 align="center"> Credits </h1>
